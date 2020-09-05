@@ -13,7 +13,7 @@ int
 main(int argc, char *argv[])
 {
 
-	// Insert new code line replacing this comment.
+	cut << "Data Structures are Important!!" << endl;   // Yes, I know there is a typo!!!
 	
 	cout << "I'm very excited to be taking Data Structures" << endl;
 	
